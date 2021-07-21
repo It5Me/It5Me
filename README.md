@@ -2,6 +2,8 @@
  🌱 I’m currently studying computer engineering at KMITL 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=It5Me&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=It5Me&layout=compact)](https://github.com/It5Me/github-readme-stats)
+
 
 <!--
 
