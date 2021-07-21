@@ -1,6 +1,10 @@
 ### Hi there 👋
  🌱 I’m currently studying computer engineering at KMITL 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=It5Me&show_icons=true&theme=tokyonight)
+
 <!--
+
 **It5Me/It5Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
